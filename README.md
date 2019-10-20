@@ -1,2 +1,0 @@
-# ag-pages
-AG Website
