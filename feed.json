@@ -14,8 +14,8 @@
             "id": "https://aggoyder.github.io/ag-pages/home/",
             "url": "https://aggoyder.github.io/ag-pages/home/",
             "title": "Home",
-            "summary": "I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance.",
-            "content_html": "<header class=\"entry-header\">\n<p id=\"mcetoc_1ds2i9hlr0\" class=\"entry-title\">I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance.</p>\n</header>",
+            "summary": "I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance. ChairsFurnitureNews ",
+            "content_html": "<header class=\"entry-header\">\n<h4 id=\"mcetoc_1ds2i9hlr0\" class=\"entry-title align-center\">I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance. </h4>\n<table class=\"align-center\" border=\"#FFFFFF\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 198px;\">\n<h2 id=\"mcetoc_1ds2jqna50\"><a href=\"http://agfurniture.co.uk/chairs/\">Chairs</a></h2>\n</td>\n<td class=\"align-center\" style=\"width: 300px;\">\n<h2 id=\"mcetoc_1ds2jqna61\"><a href=\"http://agfurniture.co.uk/furniture/\">Furniture</a></h2>\n</td>\n<td class=\"align-center\" style=\"width: 199px;\">\n<h2 id=\"mcetoc_1ds2jqna62\"><a href=\"http://agfurniture.co.uk/news/\">News</a></h2>\n</td>\n</tr>\n<tr>\n<td style=\"width: 198px;\"><a href=\"http://agfurniture.co.uk/chairs/\"><img class=\"post__image--center\" src=\"https://aggoyder.github.io/ag-pages/media/posts/30/019aa-C2958-Medium.jpg\" width=\"250\" height=\"375\"></a></td>\n<td style=\"width: 300px;\"><a href=\"http://agfurniture.co.uk/furniture/\"><img class=\"post__image--center\" src=\"https://aggoyder.github.io/ag-pages/media/posts/30/009-C3126-Medium.jpg\" width=\"400&#96;\" height=\"768\"></a></td>\n<td style=\"width: 199px;\"><a href=\"http://agfurniture.co.uk/news/\"><img class=\"post__image--center\" src=\"https://aggoyder.github.io/ag-pages/media/posts/30/Cambridge-Open-Studios.jpg\" alt=\"\" width=\"250\" height=\"675\"></a></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n</header>",
             "image": "https://aggoyder.github.io/ag-pages/media/posts/30/024a-C2958.jpg",
             "author": {
                 "name": "Andrew Goyder"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-10-19T17:44:13+01:00",
-            "date_modified": "2019-12-14T16:01:57+00:00"
+            "date_modified": "2019-12-14T16:39:11+00:00"
         },
         {
             "id": "https://aggoyder.github.io/ag-pages/art-deco-linen-press/",

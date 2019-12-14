@@ -3,7 +3,7 @@
     <title>AGTest</title>
     <link href="https://aggoyder.github.io/ag-pages/feed.xml" rel="self" />
     <link href="https://aggoyder.github.io/ag-pages" />
-    <updated>2019-12-14T16:02:08+00:00</updated>
+    <updated>2019-12-14T16:40:02+00:00</updated>
     <author>
         <name>Andrew Goyder</name>
     </author>
@@ -17,18 +17,39 @@
         <link href="https://aggoyder.github.io/ag-pages/home/"/>
         <id>https://aggoyder.github.io/ag-pages/home/</id>
 
-        <updated>2019-12-14T16:01:57+00:00</updated>
+        <updated>2019-12-14T16:39:11+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aggoyder.github.io/ag-pages/media/posts/30/024a-C2958.jpg" alt="" />
-                    I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance.
+                    I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance. ChairsFurnitureNews 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://aggoyder.github.io/ag-pages/media/posts/30/024a-C2958.jpg" alt="" />
                 <header class="entry-header">
-<p id="mcetoc_1ds2i9hlr0" class="entry-title">I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance.</p>
+<h4 id="mcetoc_1ds2i9hlr0" class="entry-title align-center">I make aesthetic, practical furniture mostly in English hardwoods. In particular chairs that combine comfort with elegance. </h4>
+<table class="align-center" border="#FFFFFF">
+<tbody>
+<tr>
+<td class="align-center" style="width: 198px;">
+<h2 id="mcetoc_1ds2jqna50"><a href="http://agfurniture.co.uk/chairs/">Chairs</a></h2>
+</td>
+<td class="align-center" style="width: 300px;">
+<h2 id="mcetoc_1ds2jqna61"><a href="http://agfurniture.co.uk/furniture/">Furniture</a></h2>
+</td>
+<td class="align-center" style="width: 199px;">
+<h2 id="mcetoc_1ds2jqna62"><a href="http://agfurniture.co.uk/news/">News</a></h2>
+</td>
+</tr>
+<tr>
+<td style="width: 198px;"><a href="http://agfurniture.co.uk/chairs/"><img class="post__image--center" src="https://aggoyder.github.io/ag-pages/media/posts/30/019aa-C2958-Medium.jpg" width="250" height="375"></a></td>
+<td style="width: 300px;"><a href="http://agfurniture.co.uk/furniture/"><img class="post__image--center" src="https://aggoyder.github.io/ag-pages/media/posts/30/009-C3126-Medium.jpg" width="400&#96;" height="768"></a></td>
+<td style="width: 199px;"><a href="http://agfurniture.co.uk/news/"><img class="post__image--center" src="https://aggoyder.github.io/ag-pages/media/posts/30/Cambridge-Open-Studios.jpg" alt="" width="250" height="675"></a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
 </header>
             ]]>
         </content>
